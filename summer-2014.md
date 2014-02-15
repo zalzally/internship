@@ -1,10 +1,10 @@
 MBA Summer Internship: June-September 2014 <br>
 Hiring Manager: Zal Bilimoria <br>
-Contact: zal@a16z.com (@zalzally) <br>
+Contact: zal@a16z.com (<li><a href="http://www.twitter.com/zalzally">@zalzally</a></li>) <br>
 
-Andreessen Horowitz (a16z.com) is a VC firm that provides seed, venture, and growth-stage funding to the
+Andreessen Horowitz (<li><a href="http://www.a16z.com">a16z.com</a></li>) is a VC firm that provides seed, venture, and growth-stage funding to the
 most promising and innovative technology companies. Founded by Marc Andreessen and Ben Horowitz, Andreessen
-Horowitz (@a16z) helps entrepreneurs become successful CEOs and build important and enduring companies. Our
+Horowitz (<li><a href="http://www.twitter.com/a16z">@a16z</a></li>) helps entrepreneurs become successful CEOs and build important and enduring companies. Our
 investing partners are Marc Andreessen, Ben Horowitz, Scott Weiss, Jeff Jordan, Peter Levine, Chris Dixon,
 Lars Dalgaard, & Balaji Srinivasan — all widely recognized experts in the creation, scaling, and operation
 of high growth tech companies.
