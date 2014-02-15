@@ -2,14 +2,14 @@ MBA Summer Internship: June-September 2014 <br>
 Hiring Manager: Zal Bilimoria <br>
 Contact: zal@a16z.com <br>
 
-Andreessen Horowitz is a VC firm that provides seed, venture, and growth-stage funding to the
-most promising and innovative technology companies. Founded by Marc Andreessen and Ben Horowitz, Andreessen
-Horowitz helps entrepreneurs become successful CEOs and build important and enduring companies. Our
-investing partners are Marc Andreessen, Ben Horowitz, Scott Weiss, Jeff Jordan, Peter Levine, Chris Dixon,
-Lars Dalgaard, & Balaji Srinivasan — all widely recognized experts in the creation, scaling, and operation
-of high growth tech companies. The firm has $2.7 billion under management across three funds. Among our
-investments are Airbnb, Airware, Box, Coinbase, Crowdtilt, Cyanogen, GitHub, Jawbone, Mixpanel, Lookout,
-Lyft, Oculus, Okta, Pinterest, Quirky, Shapeways, Soylent, Teespring, & Twice.
+Andreessen Horowitz is a VC firm based in Menlo Park, CA that provides seed, venture, and growth-stage
+funding to the most promising and innovative technology companies. Founded by Marc Andreessen and Ben
+Horowitz, Andreessen Horowitz helps entrepreneurs become successful CEOs and build important and enduring
+companies. Our investing partners are Marc Andreessen, Ben Horowitz, Scott Weiss, Jeff Jordan, Peter Levine,
+Chris Dixon, Lars Dalgaard, & Balaji Srinivasan — all widely recognized experts in the creation, scaling,
+and operation of high growth tech companies. The firm has $2.7 billion under management across three funds.
+Among our investments are Airbnb, Airware, Box, Coinbase, Crowdtilt, Cyanogen, GitHub, Jawbone, Mixpanel,
+Lookout, Lyft, Oculus, Okta, Pinterest, Quirky, Shapeways, Soylent, Teespring, & Twice.
 
 We are looking to hire an MBA summer intern to support the Deal & Research team at Andresseen Horowitz for
 a period of 12 weeks, reporting to Zal Bilimoria. This internship will allow an individual to further
