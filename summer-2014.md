@@ -1,6 +1,6 @@
-MBA Summer Internship: June-September 2014
-Hiring Manager: Zal Bilimoria
-Contact: zal@a16z.com (@zalzally)
+MBA Summer Internship: June-September 2014 <br>
+Hiring Manager: Zal Bilimoria <br>
+Contact: zal@a16z.com (@zalzally) <br>
 
 Andreessen Horowitz (a16z.com) is a VC firm that provides seed, venture, and growth-stage funding to the
 most promising and innovative technology companies. Founded by Marc Andreessen and Ben Horowitz, Andreessen
