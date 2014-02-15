@@ -4,7 +4,7 @@ Contact: zal@a16z.com <br>
 
 Andreessen Horowitz is a VC firm that provides seed, venture, and growth-stage funding to the
 most promising and innovative technology companies. Founded by Marc Andreessen and Ben Horowitz, Andreessen
-Horowitz (<li><a href="http://www.twitter.com/a16z">@a16z</a></li>) helps entrepreneurs become successful CEOs and build important and enduring companies. Our
+Horowitz helps entrepreneurs become successful CEOs and build important and enduring companies. Our
 investing partners are Marc Andreessen, Ben Horowitz, Scott Weiss, Jeff Jordan, Peter Levine, Chris Dixon,
 Lars Dalgaard, & Balaji Srinivasan — all widely recognized experts in the creation, scaling, and operation
 of high growth tech companies.
@@ -43,3 +43,8 @@ Nice-to-haves (these are all "and/or"):
 - Experience in the sharing economy ecosystem
 - Experience in the marketplace/commerce ecosystem
 - Founded a company or high degree of probability in starting one
+
+For interested candidates:
+- Please email a brief cover letter and resume to zal@a16z.com (each should be 1-page or less)
+- If there's mutual interest, we will contact candidates and schedule interviews in March 2014
+- Thank you!
