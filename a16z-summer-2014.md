@@ -26,21 +26,21 @@ Responsibilities include:
 - Ultimately presenting their "point-of-view" to the Deal & Research team at the end of the summer
 
 Candidates must have:
+- 3+ years of work experience, ideally in tech, consulting, strategy/biz ops, or industry analyst roles
+- Finished their first year at a top-tier MBA program (open to second-year MBAs seeking internships)
 - Amazing communication skills (verbal, email, & presentation)
 - Self-sufficiency at their core
 - The ability to perform at a blazingly high level
 - Curiosity and initiatve in bucket loads
 - A ridiculously detail-oriented nature
 - A good sense of humor and a positive attitude
-- Fluency in Excel and PowerPoint/Keynote
-- Finished their first year of an MBA at a top-tier program
+- A good grasp on Excel/Google Sheets as well as Powerpoint/Keynote/Google Slides
 
 Nice-to-haves (these are all "and/or"):
-- Consulting, strategy, or business operations background
 - Experience in the mobile technology ecosystem
 - Experience in the sharing economy ecosystem
 - Experience in the marketplace/commerce ecosystem
-- Founded a company or high degree of probability in starting one
+- Founded a company or high probability of starting one soon
 
 For interested candidates:
 - Please email a brief cover letter and resume to zal@a16z.com (each should be 1-page or less)
