@@ -7,11 +7,9 @@ most promising and innovative technology companies. Founded by Marc Andreessen a
 Horowitz helps entrepreneurs become successful CEOs and build important and enduring companies. Our
 investing partners are Marc Andreessen, Ben Horowitz, Scott Weiss, Jeff Jordan, Peter Levine, Chris Dixon,
 Lars Dalgaard, & Balaji Srinivasan — all widely recognized experts in the creation, scaling, and operation
-of high growth tech companies.
-
-The firm has $2.7 billion under management across three funds. Among our investments are Airbnb, Airware,
-Box, Coinbase, Crowdtilt, Cyanogen, GitHub, Jawbone, Mixpanel, Lookout, Lyft, Oculus, Okta, Pinterest,
-Quirky, Shapeways, Soylent, Teespring, & Twice.
+of high growth tech companies. The firm has $2.7 billion under management across three funds. Among our
+investments are Airbnb, Airware, Box, Coinbase, Crowdtilt, Cyanogen, GitHub, Jawbone, Mixpanel, Lookout,
+Lyft, Oculus, Okta, Pinterest, Quirky, Shapeways, Soylent, Teespring, & Twice.
 
 We are looking to hire an MBA summer intern to support the Deal & Research team at Andresseen Horowitz for
 a period of 12 weeks, reporting to Zal Bilimoria. This internship will allow an individual to further
