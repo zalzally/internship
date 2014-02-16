@@ -44,5 +44,6 @@ Nice-to-haves (these are all "and/or"):
 
 For interested candidates:
 - Please email a brief cover letter and resume to zal@a16z.com (each should be 1-page or less)
-- If there's mutual interest, we will contact candidates and schedule interviews in March 2014
+- Submit all materials by March 1, 2014
+- If there's mutual interest, we will contact candidates and schedule interviews in March
 - Thank you!
