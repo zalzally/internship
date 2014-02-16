@@ -31,7 +31,7 @@ Candidates must have:
 - Amazing communication skills (verbal, email, & presentation)
 - Self-sufficiency at their core
 - The ability to perform at a blazingly high level
-- Curiosity and initiatve in bucket loads
+- Curiosity and initiative in bucket loads
 - A ridiculously detail-oriented nature
 - A good sense of humor and a positive attitude
 - A good grasp on Excel/Google Sheets as well as Powerpoint/Keynote/Google Slides
