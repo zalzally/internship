@@ -23,7 +23,7 @@ Responsibilities include:
 - Attend founder pitches when relevant to the topics being researched
 - Support the diligence process for select investments
 - Create a comprehensive "point-of-view" in at least one area: mobile, sharing economy, and/or marketplaces
-- Ultimately presenting their "point-of-view" to the Deal & Research team at the end of the summer
+- Ultimately present their "point-of-view" to the Deal & Research team at the end of the summer
 
 Candidates must have:
 - 3+ years of work experience, ideally in tech, consulting, strategy/biz ops, or industry analyst roles
