@@ -40,6 +40,8 @@ Nice-to-haves (these are all "and/or"):
 - Experience in the mobile technology ecosystem
 - Experience in the sharing economy ecosystem
 - Experience in the marketplace/commerce ecosystem
+- Experience in the crowdfunding ecosystem
+- Experience in the health care + software ecosystem
 - Founded a company or high probability of starting one soon
 
 For interested candidates:
