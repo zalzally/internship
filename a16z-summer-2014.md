@@ -1,3 +1,5 @@
+UPDATE: We will begin reaching out the week of March 17 to schedule interviews with select applicants. Thank you!
+
 MBA Summer Internship: June-September 2014 <br>
 Hiring Manager: Zal Bilimoria <br>
 Contact: zal@a16z.com <br>
