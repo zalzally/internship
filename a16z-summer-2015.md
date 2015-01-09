@@ -17,7 +17,6 @@ Help in the creation of a "point-of-view" presentation on a particular area <br>
 
 Candidates must have:
 
-3+ years of work experience, ideally in tech, consulting, strategy/biz ops, or industry analyst roles <br>
 Amazing communication skills (verbal, email, & presentation) <br>
 Self-sufficiency at their core <br>
 The ability to perform at a blazingly high level <br>
