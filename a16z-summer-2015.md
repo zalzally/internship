@@ -12,7 +12,7 @@ Responsibilities include:
 <li>Meet with founders and other industry experts to support/validate research findings </li>
 <li>Attend founder pitches when relevant to the topics being researched </li>
 <li>Support the diligence process for select investments </li>
-<il>Help in the creation of a "point-of-view" presentation on a particular area </li>
+<li>Help in the creation of a "point-of-view" presentation on a particular area </li>
 </ul>
 
 Candidates must have:
