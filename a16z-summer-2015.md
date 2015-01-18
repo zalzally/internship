@@ -1,10 +1,9 @@
 Summer Internship: June-September 2015 <br>
-Hiring Manager: Zal Bilimoria <br>
-Contact: zal@a16z.com 
+Contact: Zal Bilimoria, zal@a16z.com <br>
 
 Andreessen Horowitz is a VC firm based in Menlo Park, CA that provides seed, venture, and growth-stage funding to the most promising and innovative technology companies. Founded by Marc Andreessen and Ben Horowitz, Andreessen Horowitz helps entrepreneurs become successful CEOs and build important and enduring companies. Our investing partners are Marc Andreessen, Ben Horowitz, Scott Weiss, Jeff Jordan, Peter Levine, Chris Dixon, Lars Dalgaard, & Balaji Srinivasan — all widely recognized experts in the creation, scaling, and operation of high growth tech companies. The firm has over $4 billion under management across four funds. Among our investments are Airbnb, Airware, Box, Coinbase, Crowdtilt, Cyanogen, GitHub, Jawbone, Mixpanel, Omada Health, Lookout, Lyft, Oculus, Okta, Pinterest, Quirky, Shapeways, Soylent, Tanium, & Teespring.
 
-We are looking to hire a summer intern to support the Deal & Research team at Andresseen Horowitz for a period of 12 weeks, reporting to Zal Bilimoria. This internship will allow an individual to further develop their understanding in a variety of areas, including but not limited to mobile platforms, marketplaces, edtech, digital health, enterprise SaaS, IoT, and productivity tools. As the academic calendar of programs vary, start and end dates are to be considered flexible.
+We are looking to hire a summer intern to support the Deal & Research team at Andresseen Horowitz for a period of 12 weeks. This internship will allow an individual to further develop their understanding in a variety of areas across both consumer and enterprise software, including but not limited to marketplaces, commerce, edtech, enterprise SaaS, IoT, Bitcoin, VR, and more. As the academic calendar of programs vary, start and end dates are to be considered flexible.
 
 Responsibilities include:
 
