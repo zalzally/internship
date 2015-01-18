@@ -6,30 +6,33 @@ Andreessen Horowitz is a VC firm based in Menlo Park, CA that provides seed, ven
 We are looking to hire a summer intern to support the Deal & Research team at Andresseen Horowitz for a period of 12 weeks. This internship will allow an individual to further develop their understanding in a variety of areas across both consumer and enterprise software, including but not limited to marketplaces, commerce, edtech, enterprise SaaS, IoT, Bitcoin, VR, and more. As the academic calendar of programs vary, start and end dates are to be considered flexible.
 
 Responsibilities include:
-
-Support the development of internal and external content (blog posts, presentations, etc.) <br>
-Curate and analyze data in respect to markets, trends, companies, etc. <br>
-Meet with founders and other industry experts to support/validate research findings <br>
-Attend founder pitches when relevant to the topics being researched <br>
-Support the diligence process for select investments <br>
-Help in the creation of a "point-of-view" presentation on a particular area <br>
+<ul>
+<li>Support the development of internal and external content (blog posts, presentations, etc.) </li>
+<li>Curate and analyze data in respect to markets, trends, companies, etc. </li>
+<li>Meet with founders and other industry experts to support/validate research findings </li>
+<li>Attend founder pitches when relevant to the topics being researched </li>
+<li>Support the diligence process for select investments </li>
+<il>Help in the creation of a "point-of-view" presentation on a particular area </li>
+</ul>
 
 Candidates must have:
-
-Amazing communication skills (verbal, email, & presentation) <br>
-Self-sufficiency at their core <br>
-The ability to perform at a blazingly high level <br>
-Curiosity and initiative in bucket loads <br>
-A ridiculously detail-oriented nature <br>
-A good sense of humor and a positive attitude <br>
-A good grasp on Excel/Google Sheets as well as Powerpoint/Keynote/Google Slides <br>
+<ul>
+<li>Amazing communication skills (verbal, email, & presentation) </li>
+<li>Self-sufficiency at their core </li>
+<li>The ability to perform at a blazingly high level </li>
+<li>Curiosity and initiative in bucket loads </li>
+<li>A ridiculously detail-oriented nature </li>
+<li>A good sense of humor and a positive attitude </li>
+<li>A good grasp on Excel/Google Sheets as well as Powerpoint/Keynote/Google Slides </li>
+</ul>
 
 Nice-to-haves (these are all "and/or"):
-
-2+ years of work experience, ideally in product, strategy, biz ops, or industry analyst roles <br>
-Finished their first year at a top-tier MBA program <br>
-Experience at a startup or technology company <br>
-Founded a company or high probability of starting one soon <br>
+<ul>
+<li>2+ years of work experience, ideally in product, strategy, biz ops, or industry analyst roles </li>
+<li>Finished their first year at a top-tier MBA program </li>
+<li>Experience at a startup or technology company </li>
+<li>Founded a company or high probability of starting one soon </li>
+</ul>
 
 For interested candidates:
 
